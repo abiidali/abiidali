@@ -1,7 +1,7 @@
 [![MasterHead](https://infowithart.com/wp-content/uploads/2019/01/animation-1-1.gif)](https://abiidali.io)
 <h1 align="center">Hi 👋, I'm Abid Ali</h1>
 <h3 align="center">A passionate MERN Stack developer from Pakistan</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5RtyI63fgwHpDjiwovTU51W7Boi0JxFb-5t1NqSzgWeoYn_w6ISUEXHcKE_Q8_RxG6Lk&usqp=CAU">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abiidali" alt="abiidali" /></a> </p>
 
