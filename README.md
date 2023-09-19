@@ -1,4 +1,4 @@
-[![MasterHead](https://infowithart.com/wp-content/uploads/2019/01/animation-1-1.gif)](https://abiidali.io)
+[![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](https://abiidali.io)
 <h1 align="center">Hi 👋, I'm Abid Ali</h1>
 <h3 align="center">A passionate MERN Stack developer from Pakistan</h3>
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5RtyI63fgwHpDjiwovTU51W7Boi0JxFb-5t1NqSzgWeoYn_w6ISUEXHcKE_Q8_RxG6Lk&usqp=CAU">
